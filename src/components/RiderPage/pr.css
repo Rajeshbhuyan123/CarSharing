@@ -1,0 +1,23 @@
+.title h1{
+    padding-left: 728px;
+    padding-top: 20px;
+    
+}
+
+.title {
+    background-color: green;
+    padding-top: 30px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
+
+p{
+    padding-left: 128px;
+}
+
+.image {
+    display: flex;
+}
